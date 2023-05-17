@@ -10,12 +10,12 @@ npm i
 
 Para executar via navegador web
 ```
-./node_modules/.bin/cypress open ou npx cypress open
+npx cypress open
 ```
 
 Para executar via linha de comando 
 ```
-npx cypress run
+npm run test:ci ou npx cypress run
 ```
 
 
