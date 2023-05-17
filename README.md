@@ -85,29 +85,28 @@ Eu como um usuario-ADM da plataforma Totvs Store, desejo acessar o produto "Dani
 
 1. Como você abordaria o teste de software em uma equipe ágil e qual seria o papel do
 QA nesse contexto?
-    O teste de software deve ser integrado ao processo de desenvolvimento desde o início. O QA trabalha em estreita colaboração com os desenvolvedores e outros membros da equipe para definir critérios de aceitação claros e criar testes automatizados que possam ser executados continuamente à medida que o software é desenvolvido. O papel do QA nesse contexto seria garantir a qualidade seja mantida em todas as fases do desenvolvimento, identificando e resolvendo problemas, além de fornecer feedbacks para melhorias contínuas.
+   R: O teste de software deve ser integrado ao processo de desenvolvimento desde o início. O QA trabalha em estreita colaboração com os desenvolvedores e outros membros da equipe para definir critérios de aceitação claros e criar testes automatizados que possam ser executados continuamente à medida que o software é desenvolvido. O papel do QA nesse contexto seria garantir a qualidade seja mantida em todas as fases do desenvolvimento, identificando e resolvendo problemas, além de fornecer feedbacks para melhorias contínuas.
 
 2. Como você conduziria os testes de regressão em um software que está em
 desenvolvimento ativo?
-    Eu seguiria uma abordagem de automação de testes priorizando os testes mais críticos e frequentemente executados. Assim permitindo a reexecução rápida dos testes de regressão sempre que houver alterações no código. 
+   R: Eu seguiria uma abordagem de automação de testes priorizando os testes mais críticos e frequentemente executados. Assim permitindo a reexecução rápida dos testes de regressão sempre que houver alterações no código. 
 
 3. Como você avalia a eficácia dos testes exploratórios em um projeto de
 desenvolvimento de software?
-    Os testes exploratórios são valiosos pois ajudam a descobrir problemas não previstos nos cenários de teste planejados. Eu avaliaria a eficácia destes testes observando a taxa de detecção de defeitos e o feedback dos usuários.
+   R: Os testes exploratórios são valiosos pois ajudam a descobrir problemas não previstos nos cenários de teste planejados. Eu avaliaria a eficácia destes testes observando a taxa de detecção de defeitos e o feedback dos usuários.
 
 4. Como você garantiria que um software é de alta qualidade antes de ser lançado em
 Produção?
-    Para garantir a alta qualidade de um software antes de ser lançado eu seguiria uma abordagem abrangente de teste. Isso incluiria testes funcionais, testes de desempenho, testes de segurança, testes de usabilidade e testes de compatibilidade, dependendo das necessidades do software. Além disso, seria importante ter um processo de Code Review, realizar testes de integração e testes de aceitação com os Stakeholders relevantes.
+   R: Para garantir a alta qualidade de um software antes de ser lançado eu seguiria uma abordagem abrangente de teste. Isso incluiria testes funcionais, testes de desempenho, testes de segurança, testes de usabilidade e testes de compatibilidade, dependendo das necessidades do software. Além disso, seria importante ter um processo de Code Review, realizar testes de integração e testes de aceitação com os Stakeholders relevantes.
 
 5. Como você gerencia e documenta os defeitos encontrados durante os testes de
 software?
-    A gestão e documentação de defeitos envolve registrar detalhes relevantes sobre cada defeito, como a descrição, passos de reprodução, dados de entrada, resultados esperados e reais, além de quaisquer evidencias. Os defeitos devem ser classificados de acordo com sua gravidade e prioridade, permitindo uma melhor triagem e correção.
+   R: A gestão e documentação de defeitos envolve registrar detalhes relevantes sobre cada defeito, como a descrição, passos de reprodução, dados de entrada, resultados esperados e reais, além de quaisquer evidencias. Os defeitos devem ser classificados de acordo com sua gravidade e prioridade, permitindo uma melhor triagem e correção.
 
 6. Como você avalia a eficácia de um processo de testes em um projeto de
 desenvolvimento de software? Quais são os principais indicadores de desempenho
 que você utilizaria para isso?
-    Para avaliar a eficácia do processo de testes, eu consideraria os seguintes indicadores de desempenho:
-
-    - Taxa de defeitos encontrados em cada fase do ciclo de vida do software.
-    - Cobertura de testes alcançada em relação aos requisitos especificados.
-    - Tempo médio.
+   R: Para avaliar a eficácia do processo de testes, eu consideraria os seguintes indicadores de desempenho:
+        Taxa de defeitos encontrados em cada fase do ciclo de vida do software.
+        Cobertura de testes alcançada em relação aos requisitos especificados.
+        Tempo médio.
